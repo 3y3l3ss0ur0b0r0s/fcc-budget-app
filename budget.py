@@ -1,9 +1,6 @@
 import math
 
 class Category:
-  name = ""
-  funds = 0.00
-  ledger = []
 
   # Constructor
   def __init__(self, name):
